@@ -1,4 +1,4 @@
-# Citibikie Analysis
+# Citibike Analysis
 
 ## Purpose
 
